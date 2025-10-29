@@ -1,6 +1,4 @@
-import logo from './logo.svg';
 import './App.css';
-import handleClick from "./lightSwitch";
 import Home from "./Home"
 import AboutMe from"./AboutMe"
 import {Routes, Route, Link} from 'react-router-dom';
