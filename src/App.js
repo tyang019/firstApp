@@ -1,6 +1,7 @@
 import './App.css';
 import Home from "./Home"
 import AboutMe from"./AboutMe"
+import LogoutButton from './LogoutButton';
 import {Routes, Route, Link} from 'react-router-dom';
 
 function App() {
