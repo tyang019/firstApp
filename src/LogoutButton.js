@@ -1,6 +1,6 @@
 function LogoutButton(props){
   return(
-    <button onClick={props.LogoutButton}>
+    <button onClick={props.logout}>
       Logout
     </button>
   );
